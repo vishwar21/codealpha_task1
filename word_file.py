@@ -1,0 +1,12 @@
+words=["hello"
+"apple",
+"bottle",
+"phone",
+"amazing",
+"attitude",
+"lotus",
+"person",
+"flower",
+"love",
+"angry"
+]
